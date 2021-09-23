@@ -7,7 +7,7 @@
 >All request controlled from this controller.
 >More information have given above the all action as comments.
 
-<img src="images/DoctorController.png"/>
+<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/DoctorController.png"/>
 
 ## Models
 #### DoctorDto
@@ -17,5 +17,5 @@
 #### SortEnum
 >Created for sorting list by the enum class parameters.
 
-<img src="images/Schemas.png"/>
+<img src="https://github.com/Hepsiburada-Backend-Bootcamp/Homework-1-BurcuMantar/blob/master/Homework-1-BurcuMantar/images/Schemas.png"/>
 
